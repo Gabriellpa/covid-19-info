@@ -17,3 +17,8 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_c
 `https://semvid19.herokuapp.com/cases/death`
 
 `https://semvid19.herokuapp.com/cases/Brazil` 
+
+
+### TODO
+[] A better readme
+[] Add difference between days
